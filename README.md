@@ -1,6 +1,6 @@
 # Big Mart Sales Data Prediction
 
-This project aims to perform Exploratory Data Analysis (EDA) on the Big Mart sales dataset using Python's Pandas, visualization, and scikit-learn libraries. The main goal is to gain insights into the dataset and understand the factors influencing the sales of items in Big Mart outlets.
+This project aims to perform Exploratory Data Analysis (EDA) on the Big Mart sales dataset using Python's Pandas and visualization libraries. The main goal is to gain insights into the dataset and understand the factors influencing the sales of items in Big Mart outlets.
 
 ## Project Overview
 
