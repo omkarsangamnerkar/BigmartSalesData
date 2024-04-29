@@ -35,7 +35,7 @@ The dataset contains information about various attributes related to the sales o
 
 - **Fat_Content_Type**: Item weight does not significantly impact item sales. Both fat content types have similar visibility, with some items having higher visibility but lower sales. Low-fat products tend to have higher prices.
 - **Item_Type**: Item weight does not significantly impact item sales.
-- **Outlet_Size**: Outlets with small sizes have evenly distributed item visibility and higher sales.
+- **Outlet_Size**: Small-size outlets have evenly distributed item visibility and higher sales.
 - **Outlet_Type**: Supermarket Type 3 shows increased sales with increasing MRP compared to Supermarket Type 1 and grocery stores. Despite higher visibility, grocery stores have lower sales.
 
 ### Univariate Analysis
